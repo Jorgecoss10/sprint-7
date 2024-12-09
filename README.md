@@ -14,3 +14,6 @@ La aplicación web permite a los usuarios interactuar con un conjunto de datos d
 
 - **Histograma**: Muestra la distribución de los valores del odómetro de los vehículos.
 - **Gráfico de Dispersión**: Compara el precio de los vehículos con el valor de su odómetro.
+
+## Link
+https://sprint-7-3i88.onrender.com
